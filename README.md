@@ -1,36 +1,21 @@
-# Hi there, I'm [SAYLI PATIL] 👋
+# 💫Hi there, I'm Sayli. 
+👩‍🦰<br>💼 Professional Journey: I have experience as an Associate Software Developer and as a Java Intern, where I honed my skills , developing backend solutions, debugging, or collaborating on team projects.<br> 🎯 Looking Ahead: I'm currently seeking new opportunities to grow and contribute in the tech industry. I’m passionate about [specific areas, e.g., building robust Java applications, solving complex problems, or learning cutting-edge technologies.<br> 💡 Skills: Proficient in Java and, Spring Boot, REST APIs, or databases,Javascript Connect: Open to exciting roles and collaborations. 
 
-## 🚀 About Me
-I'm a passionate developer with experience in various programming languages and frameworks. I love building projects that solve real-world problems.
 
-## 🛠️ Technologies & Tools
-Here are some of the technologies I work with:
+## 🌐 Connect with me
+<a href="https://leetcode.com/u/Psau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravni_code" height="30" width="40" /></a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saylipatil96k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayli-patil-918067232/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26513937) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saylidayarampatil@gmail.com) 
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SayliPatil24&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SayliPatil24&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayliPatil24&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?SayliPatil24=SayliPatil24&show_icons=true&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📂 Projects
-Here are some of the projects I've worked on:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SayliPatil24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
-- [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?SayliPatil24e=SayliPatil24)
-
-## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile][https://www.linkedin.com/in/sayli-patil-918067232/]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
